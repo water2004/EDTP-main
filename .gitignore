@@ -1,0 +1,49 @@
+# Hugo generated files
+/public/
+/resources/
+/resources/_gen/
+/hugo_stats.json
+/.hugo_build.lock
+/hugo_modules/
+
+# Hugo cache and temp
+/.hugo_cache/
+/.cache/
+
+# Node & build
+/node_modules/
+/dist/
+/build/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment
+.env
+.env.*
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# Logs
+*.log
+
+# Temporary and swap files
+*~
+*.swp
+*.swo
+._*
+
+# Optional: ignore generated archives or site deploy branches
+/.hugo_build.lock
+
