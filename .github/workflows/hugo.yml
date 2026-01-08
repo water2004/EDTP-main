@@ -27,7 +27,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.125.0'  # 可改成你需要的版本
+          hugo-version: '0.154.3'  # 可改成你需要的版本
           extended: true           # 大多数主题都需要
 
       - name: Build
